@@ -1,6 +1,6 @@
 # Memory Cleanup Master
 
-[中文](README_ZH.md) | English
+English | [中文](README_ZH.md)
 
 
 **Agent Skill** — Windows 内存清理大师，用于排查开机内存占用高、非分页池泄漏、无用后台进程/服务/计划任务，并生成可回滚的优化方案。
