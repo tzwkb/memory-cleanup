@@ -1,7 +1,10 @@
 # Memory Cleanup Master
 
-[English](README.md) | 中文
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Codex-blue.svg)](SKILL.md)
+[![PowerShell](https://img.shields.io/badge/PowerShell-scripts-5391FE.svg)](https://learn.microsoft.com/powershell/)
 
+[English](README.md) | 中文
 
 ## 概览
 

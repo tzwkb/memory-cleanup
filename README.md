@@ -1,9 +1,11 @@
 # Memory Cleanup Master
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Codex-blue.svg)](SKILL.md)
+[![PowerShell](https://img.shields.io/badge/PowerShell-scripts-5391FE.svg)](https://learn.microsoft.com/powershell/)
+
 English | [中文](README_ZH.md)
 
-
-**Agent Skill** — Windows 内存清理大师，用于排查开机内存占用高、非分页池泄漏、无用后台进程/服务/计划任务，并生成可回滚的优化方案。
 
 **Agent Skill** — Windows memory cleanup skill for high startup memory usage, non-paged pool leaks, background process/service/task triage, and rollback-safe optimization.
 
